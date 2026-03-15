@@ -18,16 +18,17 @@ This project analyzes food delivery operations to identify key factors contribut
 
 The dataset includes the following important fields:
 
--Delivery_person_ID 
--Delivery_person_Age 
--Delivery_person_Ratings
--Type_of_vehicle 
--Delivery_Status
--Delivery_Distance (km) 
--Distance_Group 
--Time_taken (min) – Total time taken to complete the delivery
----
+- Delivery_person_ID
+- Delivery_person_Age
+- Delivery_person_Ratings
+- Type_of_vehicle
+- Delivery_Status
+- Delivery_Distance(km)
+- Distance_Group
+- Time_taken(min)
 
+  ---
+  
 ## Key KPI
 
 **Delay Rate**
